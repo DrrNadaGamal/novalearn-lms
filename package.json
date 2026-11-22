@@ -1,0 +1,11 @@
+{
+  "name": "novalearn-lms",
+  "version": "1.0.0",
+  "description": "NovaLearn - a front-end learning management system demo with synthetic data, progress tracking, quizzes and certificates.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "start": "python3 -m http.server 4173"
+  },
+  "license": "MIT"
+}
